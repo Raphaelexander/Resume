@@ -2,4 +2,5 @@ Hi there, thanks for looking over my resume and portfolio! I am currently pursui
 
 For more information please send me an email at benalexander2020@gmail.com
 Checkout my LinkedIn here: https://www.linkedin.com/in/benjamin-alexander-a93525263/
+
 View my list of projects here: https://github.com/Raphaelexander
